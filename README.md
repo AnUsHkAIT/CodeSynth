@@ -25,3 +25,6 @@ npm install
 
 Start the development server:
 npm start
+
+Visit the CodeSynth Site:
+Explore CodeSynth live at https://codesynth1.netlify.app/
